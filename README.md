@@ -26,4 +26,9 @@ The game ends when the snake collides with an obstacle or itself. The final scor
 2. Open the project in Visual Studio or any other C# IDE.
 3. Build and run the application.
 
+<img width="329" alt="Welcome" src="https://github.com/BialasPiotr/Snake/assets/96840701/0d62a27e-d4f8-421c-a37c-fdc84e9fc5ad">
+
+<img width="666" alt="Game" src="https://github.com/BialasPiotr/Snake/assets/96840701/c2f5bbc0-dd37-43c8-a728-58433b6c9392">
+
+
 Have fun playing the Snake game!
